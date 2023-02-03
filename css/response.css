@@ -1,0 +1,50 @@
+@media(max-width:576px)
+{
+    .quick-logo{
+       width: 25%;
+       height:auto;
+    }
+   
+    .activate{
+        padding: 5px ;
+        border-radius: 30px;
+        background-color: rgb(234, 228, 219);
+        text-align: left;
+     } 
+    
+     .form{
+        background-color: aliceblue;
+      padding: 10px;
+      padding-bottom: 20px;
+        height: 450px;
+        width: 400px;
+        border: 5px solid rgb(250, 239, 239);
+        text-align: center;
+      position: absolute;
+      top: o;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      margin:auto;
+      box-sizing: border-box;
+    
+     }
+      .provide{
+        padding: 5px;
+        border-radius: 30px;
+        background-color: rgb(234, 228, 219);
+        text-align: left;
+     }
+     .personally{
+        padding: 5px;
+        border-radius: 30px;
+        background-color: rgb(234, 228, 219);
+        text-align: left;
+     }
+     .massive{
+        padding: 5px;
+        border-radius: 30px;
+        background-color: rgb(234, 228, 219);
+        text-align: left;
+     }
+}
